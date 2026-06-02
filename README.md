@@ -28,4 +28,4 @@ To predict student marks/performance based on input features and improve underst
 The model achieved good prediction accuracy on test data.
 
 ## 🔗 GitHub Link
-https://github.com/yourusername/student-performance-prediction
+https://github.com/shabnam1236/student-performance-prediction
